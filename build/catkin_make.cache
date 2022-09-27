@@ -1,0 +1,2 @@
+test:yaozhuojiang
+-DCATKIN_DEVEL_PREFIX=/home/boiledman/yaozhuojiang/devel -DCMAKE_INSTALL_PREFIX=/home/boiledman/yaozhuojiang/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/boiledman/yaozhuojiang/install
+
+Name: yaozhuojiang
+Description: Description of yaozhuojiang
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
